@@ -1,0 +1,14 @@
+.header__subtitle {
+  margin: 39px auto 0 auto;
+  max-width: 540px;
+  min-width: none;
+  min-height: 124px;
+  font-family: 'Lato';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+}

@@ -1,0 +1,6 @@
+.save {
+  height: 500px;
+  box-sizing: border-box;
+  background-color: #ED4C5C;
+  display: flex;
+}

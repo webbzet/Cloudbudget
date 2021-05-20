@@ -1,0 +1,17 @@
+.nav__link {
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  text-decoration: none;
+  transition: opacity .3s linear .1s;
+  margin: 0;
+  color: #fff
+}
+
+.nav__link:hover {
+  opacity: .4;
+}

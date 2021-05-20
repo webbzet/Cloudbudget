@@ -1,0 +1,16 @@
+.features__card {
+  flex-basis: 350px;
+  position: relative;
+}
+
+.features__card:first-child {
+  background: url(../../../images/features-1.jpg) no-repeat;
+}
+
+.features__card:nth-child(2)  {
+  background: url(../../../images/features-2.jpg) no-repeat;
+}
+
+.features__card:last-child {
+  background: url(../../../images/features-3.jpg) no-repeat;
+}

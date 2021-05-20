@@ -1,0 +1,8 @@
+.footer__support {
+  width: 222px;
+  height: 86px;
+  margin: 0 0 0 166px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

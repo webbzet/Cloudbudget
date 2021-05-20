@@ -1,0 +1,7 @@
+.features__cards {
+  max-width: 1110px;
+  height: 355px;
+  display: flex;
+  justify-content: space-between;
+  margin: 63px auto 0 auto;
+}

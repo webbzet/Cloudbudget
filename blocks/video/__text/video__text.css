@@ -1,0 +1,9 @@
+.video__text {
+  margin: 140px 0 0 165px;
+  width: 445px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+}

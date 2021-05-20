@@ -1,0 +1,6 @@
+.contact {
+  height: 500px;
+  box-sizing: border-box;
+  display: flex;
+  background-color: #fff;
+}

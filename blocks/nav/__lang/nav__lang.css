@@ -1,0 +1,7 @@
+.nav__lang {
+  min-width: 96px;
+  min-height: 32px;
+  display: flex;
+  align-items: center;
+  margin: 37px 0 0 113px;
+}

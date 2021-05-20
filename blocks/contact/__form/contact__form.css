@@ -1,0 +1,8 @@
+.contact__form {
+  display: flex;
+  width: 540px;
+  flex-direction: column;
+  height: 305px;
+  margin: 117px 0 0 114px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,4 @@
+.form__names {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,17 @@
+.footer__link {
+  margin: 0;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 160%;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: opacity .3s linear .1s;
+  color: #000;
+  opacity: 1;
+}
+
+.footer__link:hover {
+  opacity: .4;
+}

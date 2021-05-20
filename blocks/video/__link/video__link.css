@@ -1,0 +1,21 @@
+.video__link {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  text-align: justify;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  display: block;
+  width: 71px;
+  text-decoration: none;
+  color: #ED4C5C;
+  transition: opacity .3s linear .1s;
+}
+
+.video__link:hover {
+  opacity: .4;
+}

@@ -1,0 +1,7 @@
+.tech__cards {
+  display: flex;
+  justify-content: space-between;
+  width: 1110px;
+  height: 226px;
+  margin: 52px auto 0 auto;
+}

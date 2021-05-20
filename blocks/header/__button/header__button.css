@@ -1,0 +1,24 @@
+.header__button {
+  margin: 39px auto 0 auto;
+  min-width: min-content;
+  background: #FFFFFF;
+  border-radius: 6px;
+  font-family: 'Lato';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ED4C5C;
+  width: 160px;
+  height: 50px;
+  border: 0;
+  text-align: center;
+  transition: transform .4s ease-in .1s;
+}
+
+.header__button:hover {
+  cursor: pointer;
+  transform: scale(.95);
+}

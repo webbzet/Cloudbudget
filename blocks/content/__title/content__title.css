@@ -1,0 +1,13 @@
+.content__title {
+  margin: 0 auto 0 auto;
+  padding: 63px 0 0 0;
+  width: 1110px;
+  font-family: 'Lato';
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  height: 55px;
+}

@@ -1,0 +1,12 @@
+.form__phone {
+  height: 60px;
+  width: 540px;
+  box-sizing: border-box;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+  border-radius: 6px;
+  outline: 0;
+  margin: 24px 0 0 0;
+  background-color: #FFFFFF;
+  display: flex;
+}

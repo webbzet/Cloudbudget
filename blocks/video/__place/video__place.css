@@ -1,0 +1,7 @@
+.video__place {
+  width: 478px;
+  height: 311px;
+  margin: 94px 0 0 92px;
+  position: relative;
+  background: url(../../../images/Video_bg.png) no-repeat right;
+}

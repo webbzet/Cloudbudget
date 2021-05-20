@@ -1,0 +1,22 @@
+.nav__button {
+  min-width: 100px;
+  min-height: 40px;
+  background: 0;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+  border: #FFF 1px solid;
+  border-radius: 6px;
+  transition: transform .4s ease-in .1s;
+  margin: 33px 0 0 29px;
+}
+
+.nav__button:hover {
+  cursor: pointer;
+  transform: scale(.95);
+}
